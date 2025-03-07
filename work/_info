@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/pedro.oliveira005/VHDL
+Emux
+Z1 w1741349930
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 23
+R0
+Z4 8/home/pedro.oliveira005/VHDL/mux.vhd
+Z5 F/home/pedro.oliveira005/VHDL/mux.vhd
+l0
+L4 1
+VlV[>ghJBP3[gJ[JmNJ<872
+!s100 _JJNLb=_Vb]Hm7c]71z3j3
+Z6 OL;C;2021.3;73
+32
+Z7 !s110 1741350432
+!i10b 1
+Z8 !s108 1741350432.000000
+Z9 !s90 -reportprogress|300|-work|work|/home/pedro.oliveira005/VHDL/mux.vhd|
+Z10 !s107 /home/pedro.oliveira005/VHDL/mux.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Amux
+R2
+R3
+Z13 DEx4 work 3 mux 0 22 lV[>ghJBP3[gJ[JmNJ<872
+!i122 23
+l13
+Z14 L12 4
+Z15 V9_`DJ@GDK;_6X6YIYma3g3
+Z16 !s100 Q5Chn?]hU@=Ei[S7ZVR<i3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Emux_tb
+Z17 w1741350111
+R2
+R3
+!i122 22
+R0
+Z18 8/home/pedro.oliveira005/VHDL/mux_tb.vhd
+Z19 F/home/pedro.oliveira005/VHDL/mux_tb.vhd
+l0
+L5 1
+V45`3oGIJV^_M_m1Xzo0m@2
+!s100 5b;ezzla21;?YB9@GkR@R3
+R6
+32
+Z20 !s110 1741350431
+!i10b 1
+Z21 !s108 1741350431.000000
+Z22 !s90 -reportprogress|300|-work|work|/home/pedro.oliveira005/VHDL/mux_tb.vhd|
+Z23 !s107 /home/pedro.oliveira005/VHDL/mux_tb.vhd|
+!i113 0
+R11
+R12
+Amux_tb_x
+R13
+R2
+R3
+DEx4 work 6 mux_tb 0 22 45`3oGIJV^_M_m1Xzo0m@2
+!i122 22
+l15
+L8 27
+VmieNR^1BSTefcB>]Th^;U2
+!s100 <1_XDO=nBJhi8aJ6o]dzj0
+R6
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R11
+R12
