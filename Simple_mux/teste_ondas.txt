@@ -1,0 +1,18 @@
+Abra o diretório no ModelSim com CD {diretório}^
+
+Compile o código nas opções superiores para o ModelSim criar a pasta Work
+
+expanda a pasta Work (dentro de library), e simule o arquivo 
+
+abra os Objetos
+
+    > Para criar Ondas de entrada:
+        - Clique no Objeto
+        - Selecione Modify > Aplly Wave
+        - Escolha o tipo de onda e o tempo
+
+    > Para criar Ondas de saída:
+        - Clique no Objeto de saída
+        - Clique em Add Wave
+
+Agora, nas opções superiores, escolha o tempo de simulação e simule.
